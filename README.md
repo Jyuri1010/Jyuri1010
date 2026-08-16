@@ -1,10 +1,21 @@
 # Hi, I'm Jyuri Kalaria 👋
 
-🎓 Computer Science Engineering student  
-🤖 Exploring the world of Artificial Intelligence  
-🏆 Open to hackathons, collaborations, and new ideas  
-🌱 Currently learning **C, C++, HTML, and CSS**  
-🔌 Soon taking an **Arduino workshop** to build cool things with hardware  
+✨ About Me
+
+- 🎓 CSE student passionate about technology
+- 🤖 Exploring Artificial Intelligence
+- 🏆 Open to hackathons, collaborations and new ideas
+- 🔌 Interested in Arduino and hardware projects
+- 🌱  Currently learning **C, C++, HTML, and CSS**
+
+## 🎯 2026 Goals
+
+- Build my first AI-based project
+- Participate in hackathons
+- Create Arduino mini-projects
+- Improve my C++ and web-development skills
+- Contribute to open-source projects
+
 
 ## 🚀 What I'm Working On
 
@@ -39,6 +50,12 @@
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
+
+## 💡 Fun Facts
+
+- ☕ I enjoy turning ideas into projects
+- 🧩 I love learning through hands-on experiments
+- 🚀 Always curious about new technology
 
 ## 🤝 Let's Connect
 
