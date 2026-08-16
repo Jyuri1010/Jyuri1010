@@ -14,6 +14,21 @@
 </p>
 
 
+
+Or a softer, pastel “progress diary” style:
+
+```md
+## 📖 My Learning Diary
+
+```text
+Today, I am...
+  ✦ solving programming problems with C/C++
+  ✦ bringing ideas to life with HTML & CSS
+  ✦ exploring the possibilities of Artificial Intelligence
+  ✦ preparing to build my first Arduino project
+  ✦ looking for a hackathon adventure
+
+
 ## 🎯 2026 Goals
 
 - 🤖 Build my first AI-based project  
