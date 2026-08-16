@@ -4,7 +4,7 @@
 🤖 Exploring the world of Artificial Intelligence  
 🏆 Open to hackathons, collaborations, and new ideas  
 🌱 Currently learning **C, C++, HTML, and CSS**  
-🔌 Soon attending an **Arduino workshop** to build cool things with hardware  
+🔌 Soon taking an **Arduino workshop** to build cool things with hardware  
 
 ## 🚀 What I'm Working On
 
