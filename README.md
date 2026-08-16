@@ -30,13 +30,6 @@
 - 🌐 Learning web development  
 - 🚀 Preparing to create projects and participate in hackathons
 
-  
-## 📈 My GitHub Contributions
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR-GITHUB-USERNAME&theme=tokyonight&hide_border=true" alt="Jyuri's GitHub streak" />
-</p>
-
 
 ## 🌟 Contribution Goals
 
@@ -72,6 +65,13 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="55" alt="GitHub" />
   &nbsp;&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="55" alt="VS Code" />
+</p>
+
+
+## 📈 My GitHub Contributions
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR-GITHUB-USERNAME&theme=tokyonight&hide_border=true" alt="Jyuri's GitHub streak" />
 </p>
 
 
