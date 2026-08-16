@@ -98,8 +98,17 @@
     <img src="https://img.shields.io/badge/LinkedIn-A6C1EE?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
 </p>
+
+
+## 💌 A Tiny Note
+
+<details>
+  <summary>Click here for a message 🌸</summary>
+
+  Thank you for visiting my profile!  
+  I’m learning, experimenting, and growing one commit at a time. ✨
+</details>
+
 <p align="center">
   <i>✨ Learning today, building tomorrow. ✨</i>
 </p>
-
-
