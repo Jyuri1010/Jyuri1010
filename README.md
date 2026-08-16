@@ -1,25 +1,17 @@
-<div align="center">
+<p align="center">
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35" />
+  <b>Hi, I'm Jyuri Kalaria! 🌸</b>
+</p>
 
-<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="42" />
+<p align="center">
+  🎓 CSE Student &nbsp;•&nbsp; 🤖 Exploring AI &nbsp;•&nbsp; 💻 Learning C, C++, HTML & CSS
+  <br/>
+  🔌 Future Arduino Explorer &nbsp;•&nbsp; 🏆 Open to Hackathons and Collaboration
+</p>
 
-# Hi, I'm Jyuri Kalaria 🌸
-
-### `CSE Student` · `AI Explorer` · `Future Builder`
-
-> 🤖 Teaching myself the language of AI  
-> 💻 Building my coding roots with C, C++, HTML & CSS  
-> 🔌 Getting ready to bring ideas to life with Arduino  
-> 🏆 Always open to hackathons, collaboration, and creative projects  
-
-```text
-Currently creating:  My developer journey ✨
-Current mood:        Curious, creative & coding
-Next adventure:      Arduino workshop 🔌
-```text
-Currently creating:  My developer journey ✨
-Current mood:        Curious, creative & coding
-Next adventure:      Arduino workshop 🔌
-
+<p align="center">
+  ✨ Welcome to my little corner of GitHub — where curiosity turns into projects! ✨
+</p>
 
 ## 🎯 2026 Goals
 
