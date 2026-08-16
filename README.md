@@ -15,24 +15,21 @@
 
 ## 🎯 2026 Goals
 
-- Build my first AI-based project
-- Participate in hackathons
-- Create Arduino mini-projects
-- Improve my C++ and web-development skills
-- Contribute to open-source projects
+🤖 Build my first AI-based project  
+🏆 Participate in hackathons  
+🔌 Create Arduino mini-projects  
+💻 Improve my C++ and web-development skills  
+🌍 Contribute to open-source projects  
 
 
 ## 🚀 What I'm Working On
 
-- Building my programming foundations
-- Exploring AI and its real-world applications
-- Learning web development
-- Preparing to create projects and participate in hackathons
+🧱 Building my programming foundations  
+🤖 Exploring AI and its real-world applications  
+🌐 Learning web development  
+🚀 Preparing to create projects and participate in hackathons
 
-## 🐍 Contribution Snake
-
-![Snake animation](https://raw.githubusercontent.com/YOUR-GITHUB-USERNAME/YOUR-GITHUB-USERNAME/output/github-contribution-grid-snake.svg)
-
+  
 ## 📈 My GitHub Contributions
 
 <p align="center">
