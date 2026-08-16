@@ -13,37 +13,24 @@
 - Learning web development
 - Preparing to create projects and participate in hackathons
 
-  # Hi, I'm Jyuri Kalaria 👋
+## 📈 My GitHub Contributions
 
-🎓 Computer Science Engineering student  
-🤖 Exploring the world of Artificial Intelligence  
-🏆 Open to hackathons, collaborations, and new ideas  
-🌱 Currently learning **C, C++, HTML, and CSS**  
-🔌 Soon attending an **Arduino workshop** to build cool things with hardware  
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR-GITHUB-USERNAME&show_icons=true&theme=tokyonight&hide_border=true" alt="Jyuri's GitHub stats" />
+</p>
 
-## 🚀 What I'm Working On
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR-GITHUB-USERNAME&theme=tokyonight&hide_border=true" alt="Jyuri's GitHub streak" />
+</p>
 
-- Building my programming foundations
-- Exploring AI and its real-world applications
-- Learning web development
-- Preparing to create projects and participate in hackathons
+## 🌟 Contribution Goals
 
-## 🛠️ Currently Learning
+- 📚 Learn something new and share my progress
+- 💻 Build beginner-friendly C, C++, and web projects
+- 🤝 Collaborate in hackathons and open-source projects
+- 🤖 Explore AI through small practical projects
+- 🔌 Create Arduino-based hardware projects
 
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
-
-## 🤝 Let's Connect
-
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/your-instagram-username)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-linkedin-username)
-
----
-
-✨ *Learning, building, and growing one project at a time.*
 
 ## 🛠️ Currently Learning
 
