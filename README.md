@@ -8,6 +8,10 @@
 - 🔌 Interested in Arduino and hardware projects
 - 🌱  Currently learning **C, C++, HTML, and CSS**
 
+  <p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6a11cb,100:2575fc&height=180&section=header&text=Jyuri%20Kalaria&fontSize=42&fontColor=ffffff" />
+</p>
+
 ## 🎯 2026 Goals
 
 - Build my first AI-based project
