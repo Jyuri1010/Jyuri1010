@@ -42,6 +42,26 @@
 </p>
 
 
+## 🌟 Contribution Goals
+
+- 📚 Learn something new and share my progress
+- 💻 Build beginner-friendly C, C++, and web projects
+- 🤝 Collaborate in hackathons and open-source projects
+- 🤖 Explore AI through small practical projects
+- 🔌 Create Arduino-based hardware projects
+
+
+## 🛠️ Currently Learning
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=c,cpp,html,css&theme=light" height="58" />
+</p>
+
+<p align="center">
+  <b>C</b> &nbsp; ✦ &nbsp; <b>C++</b> &nbsp; ✦ &nbsp; <b>HTML</b> &nbsp; ✦ &nbsp; <b>CSS</b>
+</p>
+
+
 ## 🛠️ Tools & Technologies
 
 <p align="center">
@@ -60,26 +80,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="55" alt="GitHub" />
   &nbsp;&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="55" alt="VS Code" />
-</p>
-
-
-## 🌟 Contribution Goals
-
-- 📚 Learn something new and share my progress
-- 💻 Build beginner-friendly C, C++, and web projects
-- 🤝 Collaborate in hackathons and open-source projects
-- 🤖 Explore AI through small practical projects
-- 🔌 Create Arduino-based hardware projects
-
-
-## 🛠️ Currently Learning
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=c,cpp,html,css&theme=light" height="58" />
-</p>
-
-<p align="center">
-  <b>C</b> &nbsp; ✦ &nbsp; <b>C++</b> &nbsp; ✦ &nbsp; <b>HTML</b> &nbsp; ✦ &nbsp; <b>CSS</b>
 </p>
 
 
