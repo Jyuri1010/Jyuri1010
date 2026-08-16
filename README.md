@@ -66,11 +66,18 @@
 - 🧩 I love learning through hands-on experiments
 - 🚀 Always curious about new technology
 
-## 🤝 Let's Connect
+## 📬 Let’s Connect
 
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/your-instagram-username)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-linkedin-username)
+> 🌸 Feel free to reach out for hackathons, project ideas, or collaboration!
 
+<p align="center">
+  <a href="mailto:jyurikalaria1010@gmail.com">
+    <img src="https://img.shields.io/badge/Email-F9A8D4?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  <a href="https://linkedin.com/in/Jyuri1010">
+    <img src="https://img.shields.io/badge/LinkedIn-A6C1EE?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+</p>
 <p align="center">
   <i>✨ Learning today, building tomorrow. ✨</i>
 </p>
