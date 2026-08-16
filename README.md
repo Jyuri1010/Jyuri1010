@@ -13,6 +13,17 @@
   ✨ Welcome to my little corner of GitHub — where curiosity turns into projects! ✨
 </p>
 
+## 🎯 2026 Goals
+
+<p align="center">
+  <img src="https://img.shields.io/badge/2026-My%20Year%20of%20Building-F9A8D4?style=for-the-badge&labelColor=9B6DB3" alt="2026 goals" />
+</p>
+
+```text
+╔════════════ 🌸 MY BUILDING ERA 🌸 ════════════╗
+║  Small steps today → meaningful projects tomorrow  ║
+╚═══════════════════════════════════════════════════╝
+
 
 ## 🎯 2026 Goals
 
