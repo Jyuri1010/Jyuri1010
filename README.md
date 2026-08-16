@@ -75,6 +75,11 @@
 </p>
 
 
+## 📈 My Contribution Graph
+
+[![Jyuri's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=YOUR-GITHUB-USERNAME&bg_color=fff7fc&color=6b5b95&line=c084fc&point=f9a8d4&area=true&hide_border=true)](https://github.com/YOUR-GITHUB-USERNAME)
+
+
 ## 💡 Fun Facts
 
 - ☕ I enjoy turning ideas into projects
