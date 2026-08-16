@@ -15,6 +15,10 @@
 Currently creating:  My developer journey ✨
 Current mood:        Curious, creative & coding
 Next adventure:      Arduino workshop 🔌
+```text
+Currently creating:  My developer journey ✨
+Current mood:        Curious, creative & coding
+Next adventure:      Arduino workshop 🔌
 
 
 ## 🎯 2026 Goals
