@@ -14,27 +14,21 @@
 </p>
 
 
-## 🎯 2026 Goals — My Journey Map
 
-```text
-🌱 Start Here
-   │
-   ├── 🤖 Build my first AI-based project
-   │       └── Turn an idea into something useful
-   │
-   ├── 🏆 Participate in hackathons
-   │       └── Meet, learn, and build with new people
-   │
-   ├── 🔌 Create Arduino mini-projects
-   │       └── Make code interact with the real world
-   │
-   ├── 💻 Improve C++ & web-development skills
-   │       └── Practice through small projects
-   │
-   └── 🌍 Make my first open-source contribution
-           └── Give back to the coding community
+Or a “vision board” version:
 
-🚀 Destination: A confident developer who builds with creativity!
+```md
+## 🎯 My 2026 Vision Board
+
+| Dream | My next step |
+|---|---|
+| 🤖 AI Project | Learn AI basics and build a small study helper |
+| 🏆 Hackathons | Find a beginner-friendly team |
+| 🔌 Arduino | Attend the workshop and build my first circuit |
+| 💻 C++ + Web | Complete mini-projects consistently |
+| 🌍 Open Source | Make my first meaningful pull request |
+
+> ✨ *2026 is my year to learn boldly, create consistently, and grow confidently.*
 
 
 ## 🎯 2026 Goals
