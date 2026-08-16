@@ -14,23 +14,6 @@
 </p>
 
 
-
-Or a “vision board” version:
-
-```md
-## 🎯 My 2026 Vision Board
-
-| Dream | My next step |
-|---|---|
-| 🤖 AI Project | Learn AI basics and build a small study helper |
-| 🏆 Hackathons | Find a beginner-friendly team |
-| 🔌 Arduino | Attend the workshop and build my first circuit |
-| 💻 C++ + Web | Complete mini-projects consistently |
-| 🌍 Open Source | Make my first meaningful pull request |
-
-> ✨ *2026 is my year to learn boldly, create consistently, and grow confidently.*
-
-
 ## 🎯 2026 Goals
 
 - 🤖 Build my first AI-based project  
