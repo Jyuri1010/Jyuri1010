@@ -94,7 +94,7 @@
   <a href="mailto:jyurikalaria1010@gmail.com">
     <img src="https://img.shields.io/badge/Email-F9A8D4?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
-  <a href="https://linkedin.com/in/Jyuri1010">
+  <a href="https://linkedin.com/in/Jyuri K Kalaria">
     <img src="https://img.shields.io/badge/LinkedIn-A6C1EE?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
 </p>
