@@ -1,12 +1,17 @@
-# Hi, I'm Jyuri Kalaria 👋
+<p align="center">
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35" />
+  <b>Hi, I'm Jyuri Kalaria! 🌸</b>
+</p>
 
-✨ About Me
+<p align="center">
+  🎓 CSE Student &nbsp;•&nbsp; 🤖 Exploring AI &nbsp;•&nbsp; 💻 Learning C, C++, HTML & CSS
+  <br/>
+  🔌 Future Arduino Explorer &nbsp;•&nbsp; 🏆 Open to Hackathons and Collaboration
+</p>
 
-- 🎓 CSE student passionate about technology
-- 🤖 Exploring Artificial Intelligence
-- 🏆 Open to hackathons, collaborations and new ideas
-- 🔌 Interested in Arduino and hardware projects
-- 🌱  Currently learning **C, C++, HTML, and CSS**
+<p align="center">
+  ✨ Welcome to my little corner of GitHub — where curiosity turns into projects! ✨
+</p>
 
  
 ## 🎯 2026 Goals
