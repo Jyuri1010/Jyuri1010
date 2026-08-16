@@ -15,19 +15,19 @@
 
 ## 🎯 2026 Goals
 
-🤖 Build my first AI-based project  
-🏆 Participate in hackathons  
-🔌 Create Arduino mini-projects  
-💻 Improve my C++ and web-development skills  
-🌍 Contribute to open-source projects  
+- 🤖 Build my first AI-based project  
+- 🏆 Participate in hackathons  
+- 🔌 Create Arduino mini-projects  
+- 💻 Improve my C++ and web-development skills  
+- 🌍 Contribute to open-source projects  
 
 
 ## 🚀 What I'm Working On
 
-🧱 Building my programming foundations  
-🤖 Exploring AI and its real-world applications  
-🌐 Learning web development  
-🚀 Preparing to create projects and participate in hackathons
+- 🧱 Building my programming foundations  
+- 🤖 Exploring AI and its real-world applications  
+- 🌐 Learning web development  
+- 🚀 Preparing to create projects and participate in hackathons
 
   
 ## 📈 My GitHub Contributions
