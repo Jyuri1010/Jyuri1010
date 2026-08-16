@@ -71,4 +71,4 @@
   <i>✨ Learning today, building tomorrow. ✨</i>
 </p>
 
-✨ *Learning, building, and growing one project at a time.*
+
