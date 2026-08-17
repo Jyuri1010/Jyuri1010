@@ -25,7 +25,6 @@
   />
 </p>
 
-
 ## 🚀 What I'm Working On
 
 - 🧱 Building my programming foundations  
