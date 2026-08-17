@@ -16,13 +16,12 @@
 </p>
 
 
-## 🎯 2026 Goals
-
-- 🤖 Build my first AI-based project  
-- 🏆 Participate in hackathons  
-- 🔌 Create Arduino mini-projects  
-- 💻 Improve my C++ and web-development skills  
-- 🌍 Contribute to open-source projects  
+<p align="center">
+  <img
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=900&color=F4A7B9&center=true&vCenter=true&width=950&lines=2026+Goals;🤖+Build+my+first+AI-based+project;🏆+Participate+in+hackathons;🔌+Create+Arduino+mini-projects;💻+Improve+my+C%2B%2B+and+web-development+skills;🌍+Contribute+to+open-source+projects"
+    alt="My 2026 goals"
+  />
+</p>
 
 
 ## 🚀 What I'm Working On
