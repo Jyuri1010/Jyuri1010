@@ -16,11 +16,10 @@
 
 <p align="center">
   <img
-    src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+YourName+%F0%9F%91%8B;Developer+%7C+Creator+%7C+Learner;Building+cool+things+with+code"
-    alt="Typing SVG"
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=32&pause=1000&color=36BCF7&center=true&vCenter=true&width=800&lines=Hello%2C+I'm+Jyuri+Kalaria+%F0%9F%91%8B;Welcome+to+my+GitHub+profile!"
+    alt="Animated introduction"
   />
 </p>
-
 
 ## 🎯 2026 Goals
 
