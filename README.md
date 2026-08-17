@@ -12,9 +12,11 @@
 </p>
 
 <p align="center">
-  ✨ Welcome to my little corner of GitHub — where curiosity turns into projects! ✨
+  <img
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=F4A7B9&center=true&vCenter=true&width=1000&lines=Welcome+to+my+little+corner+of+GitHub+%E2%80%94+where+curiosity+turns+into+projects!"
+    alt="Welcome message"
+  />
 </p>
-
 
 <p align="center">
   <img
