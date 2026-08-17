@@ -1,6 +1,8 @@
 <p align="center">
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35" />
-  <b>Hi, I'm Jyuri Kalaria! 🌸</b>
+  <img
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=32&pause=1000&color=F4A7B9&center=true&vCenter=true&width=800&lines=%F0%9F%91%8B+Hello%2C+I'm+Jyuri+Kalaria+%F0%9F%8C%B8;Welcome+to+my+GitHub+profile!"
+    alt="Animated introduction"
+  />
 </p>
 
 <p align="center">
