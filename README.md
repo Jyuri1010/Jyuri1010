@@ -20,13 +20,13 @@
 
 ![2026 Goals](https://capsule-render.vercel.app/api?type=waving&color=F4A7B9&height=140&section=header&text=2026%20Goals&fontSize=42&fontColor=FFFFFF&animation=fadeIn)
 
-
 ## 🚀 What I'm Working On
 
 - 🧱 Building my programming foundations  
 - 🤖 Exploring AI and its real-world applications  
 - 🌐 Learning web development  
 - 🚀 Preparing to create projects and participate in hackathons
+
 
 ![Contribution Goals](https://capsule-render.vercel.app/api?type=waving&color=F4A7B9&height=140&section=header&text=Contribution%20Goals&fontSize=38&fontColor=FFFFFF&animation=fadeIn)
 
