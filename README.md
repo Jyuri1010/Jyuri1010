@@ -26,6 +26,8 @@
 - 🚀 Preparing to create projects and participate in hackathons
 
 
+
+
 ![Contribution Goals](https://capsule-render.vercel.app/api?type=waving&color=F4A7B9&height=140&section=header&text=Contribution%20Goals&fontSize=38&fontColor=FFFFFF&animation=fadeIn)
 
 - 📚 Learn something new and share my progress
