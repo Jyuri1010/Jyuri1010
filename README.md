@@ -16,13 +16,6 @@
 </p>
 
 
-<p align="center">
-  <img
-    src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=32&pause=1000&color=F4A7B9&center=true&vCenter=true&width=800&lines=Hello%2C+I'm+Jyuri+Kalaria+%F0%9F%91%8B!"
-    alt="Animated introduction"
-  />
-</p>
-
 ## 🎯 2026 Goals
 
 - 🤖 Build my first AI-based project  
