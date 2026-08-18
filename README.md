@@ -65,6 +65,11 @@
 </p>
 
 
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Jyuri1010&color=blueviolet&style=flat-square" alt="Profile Views" />
+</p>
+
+
 ## 📈 My GitHub Contributions
 
 <p align="center">
