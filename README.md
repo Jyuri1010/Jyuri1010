@@ -65,8 +65,7 @@
 </p>
 
 
-[![Jyuri's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Jyuri1010&theme=dark)](https://github.com/Jyuri1010)
-
+[![Jyuri's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Jyuri1010&theme=react-dark)](https://github.com/Jyuri1010)
 
 ## 📈 My GitHub Contributions
 
