@@ -65,6 +65,9 @@
 </p>
 
 
+[![Jyuri's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Jyuri1010&theme=dark)](https://github.com/Jyuri1010)
+
+
 ## 📈 My GitHub Contributions
 
 <p align="center">
