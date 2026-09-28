@@ -77,24 +77,6 @@
 </p>
 
 
-## 📈 My Contribution Graph
-
-<div class="graph" id="graph"></div>
-
-<style>
-  .graph { display: grid; grid-auto-flow: column; grid-template-rows: repeat(7, 12px); gap: 4px; }
-  .graph span { width: 12px; height: 12px; border-radius: 3px; background: #ffeaf2; }
-  .graph span:nth-child(5n) { background: #ffc1d8; }
-  .graph span:nth-child(7n) { background: #ff8fb9; }
-  .graph span:nth-child(11n) { background: #f45b98; }
-  .graph span:nth-child(17n) { background: #c9185a; }
-</style>
-
-<script>
-  document.getElementById("graph").innerHTML = "<span></span>".repeat(364);
-</script>
-
-
 ## 💡 Fun Facts
 
 - ☕ I enjoy turning ideas into projects
