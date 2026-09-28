@@ -78,6 +78,49 @@
 
 
 ## 📈 My Contribution Graph
+
+import { useState } from "react";
+import "./ContributionGraph.css";
+
+const months = ["Jan", "Feb", "Mar", "Apr", "May", "Jun",
+                "Jul", "Aug", "Sep", "Oct", "Nov", "Dec"];
+
+export default function ContributionGraph() {
+  const [days] = useState(() =>
+    Array.from({ length: 365 }, (_, i) => ({
+      id: i,
+      level: Math.random() < 0.6 ? 0 : Math.ceil(Math.random() * 4),
+    }))
+  );
+
+  return (
+    <section className="contribution-card">
+      <h2>My GitHub contributions</h2>
+
+      <div className="month-labels">
+        {months.map((month) => <span key={month}>{month}</span>)}
+      </div>
+
+      <div className="contribution-grid">
+        {days.map((day) => (
+          <div
+            key={day.id}
+            className={`contribution-day level-${day.level}`}
+            title={`${day.level} contributions`}
+          />
+        ))}
+      </div>
+
+      <div className="graph-legend">
+        <span>Less</span>
+        {[0, 1, 2, 3, 4].map((level) => (
+          <span key={level} className={`contribution-day level-${level}`} />
+        ))}
+        <span>More</span>
+      </div>
+    </section>
+  );
+}
 ## 💡 Fun Facts
 
 - ☕ I enjoy turning ideas into projects
