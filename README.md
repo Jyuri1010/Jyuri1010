@@ -70,14 +70,7 @@
 </p>
 
 
-## 📈 My GitHub Contributions
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jyuri1010&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
-</p>
-
-
-## 📈 My GitHub Contribution Graph 🟩
+## 📈 My GitHub Contribution
 
 ![GitHub contribution graph](https://ghchart.rshah.org/octocat)
 
