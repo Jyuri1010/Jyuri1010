@@ -78,9 +78,6 @@
 
 
 ## 📈 My Contribution Graph
-
-Here’s a self-contained HTML contribution graph with a pink color theme. Save it as `contribution-graph.html` and open it in a browser. The squares use sample data; replace it with your GitHub contribution data if you want the graph to match your profile.
-
 ```html
 <!DOCTYPE html>
 <html lang="en">
