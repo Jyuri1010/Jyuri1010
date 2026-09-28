@@ -79,48 +79,22 @@
 
 ## 📈 My Contribution Graph
 
-import { useState } from "react";
-import "./ContributionGraph.css";
+<div class="graph" id="graph"></div>
 
-const months = ["Jan", "Feb", "Mar", "Apr", "May", "Jun",
-                "Jul", "Aug", "Sep", "Oct", "Nov", "Dec"];
+<style>
+  .graph { display: grid; grid-auto-flow: column; grid-template-rows: repeat(7, 12px); gap: 4px; }
+  .graph span { width: 12px; height: 12px; border-radius: 3px; background: #ffeaf2; }
+  .graph span:nth-child(5n) { background: #ffc1d8; }
+  .graph span:nth-child(7n) { background: #ff8fb9; }
+  .graph span:nth-child(11n) { background: #f45b98; }
+  .graph span:nth-child(17n) { background: #c9185a; }
+</style>
 
-export default function ContributionGraph() {
-  const [days] = useState(() =>
-    Array.from({ length: 365 }, (_, i) => ({
-      id: i,
-      level: Math.random() < 0.6 ? 0 : Math.ceil(Math.random() * 4),
-    }))
-  );
+<script>
+  document.getElementById("graph").innerHTML = "<span></span>".repeat(364);
+</script>
 
-  return (
-    <section className="contribution-card">
-      <h2>My GitHub contributions</h2>
 
-      <div className="month-labels">
-        {months.map((month) => <span key={month}>{month}</span>)}
-      </div>
-
-      <div className="contribution-grid">
-        {days.map((day) => (
-          <div
-            key={day.id}
-            className={`contribution-day level-${day.level}`}
-            title={`${day.level} contributions`}
-          />
-        ))}
-      </div>
-
-      <div className="graph-legend">
-        <span>Less</span>
-        {[0, 1, 2, 3, 4].map((level) => (
-          <span key={level} className={`contribution-day level-${level}`} />
-        ))}
-        <span>More</span>
-      </div>
-    </section>
-  );
-}
 ## 💡 Fun Facts
 
 - ☕ I enjoy turning ideas into projects
